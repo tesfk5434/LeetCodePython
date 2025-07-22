@@ -4,6 +4,8 @@
 #Time Complexity: O(n), Beats 100%
 #Space Complexity: O(n), Beats 50%
 from typing import List
+
+#store different numbers in table, to lookup when another term is found
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         table = {}
