@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/find-unique-binary-string/submissions/1549172307/
+# https://leetcode.com/problems/find-unique-binary-string/
 
 #Status: Completed
 #Time Complexity: O(n), Beats 100%
